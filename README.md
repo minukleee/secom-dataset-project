@@ -8,7 +8,7 @@ sensortime 제거
 sensor간 상관계수 75% 이상 sensor 제거
 
 
-pass_fail 상관계수 top 40 선정
+pass_fail 상관계수 top 40 sensor 선정
 
 # 분류 / SMOTE / SMOTEENN
 train_test_split 진행
